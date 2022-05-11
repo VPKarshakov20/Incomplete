@@ -17,7 +17,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     GameInitializer::GenerateCards(SIZE, baseCards);
 
-    connect(ui->pushButton_2, &QPushButton::clicked, this, &MainWindow::selectCard);
+    connect(ui->pushButton_2, &QPushButton::clicked, this, &::MainWindow::selectCard);
     connect(ui->pushButton, &QPushButton::clicked, this, &MainWindow::setCard);
 
 }
@@ -27,15 +27,15 @@ void MainWindow::selectCard()
     QPushButton* t = qobject_cast<QPushButton*>(sender());
     playCard = t->icon().pixmap(t->icon().actualSize(QSize(40, 60)));
 
+
 }
 
 void MainWindow::setCard()
 {
-    //TODO: check if we can place this shit
     QPushButton* t = qobject_cast<QPushButton*>(sender());
     t->setIcon(QIcon(playCard));
-}
 
+}
 MainWindow::~MainWindow()
 {
     delete ui;
