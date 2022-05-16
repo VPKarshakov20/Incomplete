@@ -6,33 +6,14 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>862</width>
-    <height>629</height>
+    <width>858</width>
+    <height>622</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="label">
-    <property name="geometry">
-     <rect>
-      <x>970</x>
-      <y>70</y>
-      <width>161</width>
-      <height>191</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap>../../card.png</pixmap>
-    </property>
-    <property name="scaledContents">
-     <bool>true</bool>
-    </property>
-   </widget>
    <widget class="QLabel" name="cardbase1">
     <property name="enabled">
      <bool>true</bool>
@@ -49,7 +30,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>01 card.png</pixmap>
+     <pixmap>../assets/01 card.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -68,7 +49,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/01 card.png</pixmap>
+     <pixmap>../assets/01 card.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -87,7 +68,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/01 card.png</pixmap>
+     <pixmap>../assets/01 card.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -106,7 +87,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/01 card.png</pixmap>
+     <pixmap>../assets/01 card.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -125,7 +106,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>01 card.png</pixmap>
+     <pixmap>../assets/01 card.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -144,7 +125,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/01 card.png</pixmap>
+     <pixmap>../assets/01 card.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -186,49 +167,6 @@ border: 0;</string>
      <bool>true</bool>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
-    <property name="geometry">
-     <rect>
-      <x>620</x>
-      <y>50</y>
-      <width>161</width>
-      <height>191</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">border: 0px;
-background: transparent;l</string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="icon">
-     <iconset>
-      <normaloff>../../card.png</normaloff>../../card.png</iconset>
-    </property>
-    <property name="iconSize">
-     <size>
-      <width>161</width>
-      <height>191</height>
-     </size>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_2">
-    <property name="geometry">
-     <rect>
-      <x>740</x>
-      <y>490</y>
-      <width>49</width>
-      <height>16</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
@@ -242,7 +180,7 @@ background: transparent;l</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../game field.png</pixmap>
+     <pixmap>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/game field.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -392,8 +330,37 @@ border: 0;</string>
      <bool>true</bool>
     </property>
    </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>70</y>
+      <width>161</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: 0px;
+l</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/card.png</normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/card.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>161</width>
+      <height>191</height>
+     </size>
+    </property>
+    <property name="flat">
+     <bool>true</bool>
+    </property>
+   </widget>
    <zorder>label_3</zorder>
-   <zorder>label</zorder>
    <zorder>cardbase1</zorder>
    <zorder>cardbase2</zorder>
    <zorder>cardbase3</zorder>
@@ -401,19 +368,18 @@ border: 0;</string>
    <zorder>cardbase5</zorder>
    <zorder>cardbase6</zorder>
    <zorder>pushButton</zorder>
-   <zorder>pushButton_2</zorder>
-   <zorder>label_2</zorder>
    <zorder>pushButton_3</zorder>
    <zorder>pushButton_4</zorder>
    <zorder>pushButton_5</zorder>
    <zorder>pushButton_6</zorder>
+   <zorder>pushButton_2</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>862</width>
+     <width>858</width>
      <height>21</height>
     </rect>
    </property>

@@ -17,8 +17,8 @@ bool* GameInitializer::GenerateStartingCards(int size) {
  void GameInitializer::GenerateCards(int size, QLabel* arr[]) {
     bool* start = GenerateStartingCards(size);
 
-    QPixmap pixmap01("01 card.png");
-    QPixmap pixmap01Flip("01 card flipped.png");
+    QPixmap pixmap01("../assets01 card.png");
+    QPixmap pixmap01Flip("../assets/01 card flipped.png");
 
     for(int i = 0; i < size; i++) {
         if(start[i]) {
