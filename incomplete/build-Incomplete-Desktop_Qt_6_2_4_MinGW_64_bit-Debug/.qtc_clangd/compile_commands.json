@@ -9,7 +9,7 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-maEBgl\\clang-uiheader-cwoZvk",
+        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-UGfNpL\\clang-uiheader-JYcNar",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -33,7 +33,7 @@
         "-DQT_CORE_LIB",
         "-DQT_NEEDS_QMAIN",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete",
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include",
         "-I",
@@ -43,9 +43,9 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -69,10 +69,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete\\gameintializer.cpp"
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete\\gameinitializer.cpp"
     ],
-    "directory": "C:/Users/m/Desktop/incomplete/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/m/Desktop/incomplete/Incomplete/gameintializer.cpp"
+    "directory": "C:/Users/m/Desktop/w i/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/m/Desktop/w i/Incomplete/gameinitializer.cpp"
 },
 {
     "arguments": [
@@ -84,7 +84,7 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-maEBgl\\clang-uiheader-cwoZvk",
+        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-UGfNpL\\clang-uiheader-JYcNar",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -108,7 +108,7 @@
         "-DQT_CORE_LIB",
         "-DQT_NEEDS_QMAIN",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete",
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include",
         "-I",
@@ -118,9 +118,9 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -144,10 +144,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete\\main.cpp"
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete\\main.cpp"
     ],
-    "directory": "C:/Users/m/Desktop/incomplete/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/m/Desktop/incomplete/Incomplete/main.cpp"
+    "directory": "C:/Users/m/Desktop/w i/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/m/Desktop/w i/Incomplete/main.cpp"
 },
 {
     "arguments": [
@@ -159,7 +159,7 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-maEBgl\\clang-uiheader-cwoZvk",
+        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-UGfNpL\\clang-uiheader-JYcNar",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -183,7 +183,7 @@
         "-DQT_CORE_LIB",
         "-DQT_NEEDS_QMAIN",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete",
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include",
         "-I",
@@ -193,9 +193,9 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -219,10 +219,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete\\mainwindow.cpp"
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete\\mainwindow.cpp"
     ],
-    "directory": "C:/Users/m/Desktop/incomplete/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/m/Desktop/incomplete/Incomplete/mainwindow.cpp"
+    "directory": "C:/Users/m/Desktop/w i/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/m/Desktop/w i/Incomplete/mainwindow.cpp"
 },
 {
     "arguments": [
@@ -234,7 +234,7 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-maEBgl\\clang-uiheader-cwoZvk",
+        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-UGfNpL\\clang-uiheader-JYcNar",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -258,7 +258,7 @@
         "-DQT_CORE_LIB",
         "-DQT_NEEDS_QMAIN",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete",
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include",
         "-I",
@@ -268,9 +268,9 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -294,10 +294,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete\\gameintializer.h"
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete\\gameinitializer.h"
     ],
-    "directory": "C:/Users/m/Desktop/incomplete/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/m/Desktop/incomplete/Incomplete/gameintializer.h"
+    "directory": "C:/Users/m/Desktop/w i/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/m/Desktop/w i/Incomplete/gameinitializer.h"
 },
 {
     "arguments": [
@@ -309,7 +309,7 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-maEBgl\\clang-uiheader-cwoZvk",
+        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-UGfNpL\\clang-uiheader-JYcNar",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -333,7 +333,7 @@
         "-DQT_CORE_LIB",
         "-DQT_NEEDS_QMAIN",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete",
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include",
         "-I",
@@ -343,9 +343,9 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -369,10 +369,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete\\mainwindow.h"
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete\\mainwindow.h"
     ],
-    "directory": "C:/Users/m/Desktop/incomplete/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/m/Desktop/incomplete/Incomplete/mainwindow.h"
+    "directory": "C:/Users/m/Desktop/w i/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/m/Desktop/w i/Incomplete/mainwindow.h"
 },
 {
     "arguments": [
@@ -384,7 +384,7 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-maEBgl\\clang-uiheader-cwoZvk",
+        "C:\\Users\\m\\AppData\\Local\\Temp\\QtCreator-UGfNpL\\clang-uiheader-JYcNar",
         "-nostdinc",
         "-nostdinc++",
         "-g",
@@ -408,7 +408,7 @@
         "-DQT_CORE_LIB",
         "-DQT_NEEDS_QMAIN",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\Incomplete",
+        "C:\\Users\\m\\Desktop\\w i\\Incomplete",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include",
         "-I",
@@ -418,9 +418,9 @@
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\include\\QtCore",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\debug",
         "-I",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
         "-I",
         "C:\\Users\\m\\Desktop\\qt\\6.2.4\\mingw_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -444,9 +444,9 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "C:\\Users\\m\\Desktop\\incomplete\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\ui_mainwindow.h"
+        "C:\\Users\\m\\Desktop\\w i\\build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug\\ui_mainwindow.h"
     ],
-    "directory": "C:/Users/m/Desktop/incomplete/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/m/Desktop/incomplete/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/ui_mainwindow.h"
+    "directory": "C:/Users/m/Desktop/w i/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/.qtc_clangd",
+    "file": "C:/Users/m/Desktop/w i/build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/ui_mainwindow.h"
 }
 ]

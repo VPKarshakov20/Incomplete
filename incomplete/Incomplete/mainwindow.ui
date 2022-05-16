@@ -6,24 +6,40 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>858</width>
-    <height>622</height>
+    <width>1001</width>
+    <height>616</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="cardbase1">
-    <property name="enabled">
-     <bool>true</bool>
-    </property>
+   <widget class="QLabel" name="background">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>50</y>
-      <width>41</width>
-      <height>51</height>
+      <x>0</x>
+      <y>-10</y>
+      <width>1001</width>
+      <height>571</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../assets/game field.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="cardbase1">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>30</y>
+      <width>51</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="text">
@@ -39,10 +55,10 @@
    <widget class="QLabel" name="cardbase2">
     <property name="geometry">
      <rect>
-      <x>240</x>
+      <x>280</x>
       <y>100</y>
-      <width>41</width>
-      <height>51</height>
+      <width>51</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="text">
@@ -58,10 +74,10 @@
    <widget class="QLabel" name="cardbase3">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>150</y>
-      <width>41</width>
-      <height>51</height>
+      <x>280</x>
+      <y>170</y>
+      <width>51</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="text">
@@ -77,10 +93,10 @@
    <widget class="QLabel" name="cardbase4">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>200</y>
-      <width>41</width>
-      <height>51</height>
+      <x>280</x>
+      <y>240</y>
+      <width>51</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="text">
@@ -96,10 +112,10 @@
    <widget class="QLabel" name="cardbase5">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>250</y>
-      <width>40</width>
-      <height>51</height>
+      <x>280</x>
+      <y>310</y>
+      <width>51</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="text">
@@ -115,10 +131,10 @@
    <widget class="QLabel" name="cardbase6">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>300</y>
-      <width>40</width>
-      <height>51</height>
+      <x>280</x>
+      <y>380</y>
+      <width>51</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="text">
@@ -134,252 +150,378 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>290</x>
-      <y>50</y>
-      <width>31</width>
-      <height>51</height>
+      <x>810</x>
+      <y>70</y>
+      <width>51</width>
+      <height>71</height>
      </rect>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">background: transparent;
-border: 0;</string>
     </property>
     <property name="text">
      <string/>
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</iconset>
+      <normaloff>../assets/1and.png</normaloff>../assets/1and.png</iconset>
     </property>
     <property name="iconSize">
      <size>
-      <width>40</width>
-      <height>60</height>
+      <width>51</width>
+      <height>71</height>
      </size>
-    </property>
-    <property name="autoRepeat">
-     <bool>false</bool>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_3">
-    <property name="geometry">
-     <rect>
-      <x>0</x>
-      <y>0</y>
-      <width>861</width>
-      <height>581</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/game field.png</pixmap>
-    </property>
-    <property name="scaledContents">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_3">
-    <property name="geometry">
-     <rect>
-      <x>290</x>
-      <y>120</y>
-      <width>31</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">background: transparent;
-border: 0;</string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="icon">
-     <iconset>
-      <normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</iconset>
-    </property>
-    <property name="iconSize">
-     <size>
-      <width>40</width>
-      <height>60</height>
-     </size>
-    </property>
-    <property name="autoRepeat">
-     <bool>false</bool>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_4">
-    <property name="geometry">
-     <rect>
-      <x>290</x>
-      <y>170</y>
-      <width>31</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">background: transparent;
-border: 0;</string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="icon">
-     <iconset>
-      <normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</iconset>
-    </property>
-    <property name="iconSize">
-     <size>
-      <width>40</width>
-      <height>60</height>
-     </size>
-    </property>
-    <property name="autoRepeat">
-     <bool>false</bool>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_5">
-    <property name="geometry">
-     <rect>
-      <x>290</x>
-      <y>230</y>
-      <width>31</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">background: transparent;
-border: 0;</string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="icon">
-     <iconset>
-      <normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</iconset>
-    </property>
-    <property name="iconSize">
-     <size>
-      <width>40</width>
-      <height>60</height>
-     </size>
-    </property>
-    <property name="autoRepeat">
-     <bool>false</bool>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_6">
-    <property name="geometry">
-     <rect>
-      <x>290</x>
-      <y>290</y>
-      <width>31</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">background: transparent;
-border: 0;</string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="icon">
-     <iconset>
-      <normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Empty.png</iconset>
-    </property>
-    <property name="iconSize">
-     <size>
-      <width>40</width>
-      <height>60</height>
-     </size>
-    </property>
-    <property name="autoRepeat">
-     <bool>false</bool>
-    </property>
-    <property name="flat">
-     <bool>true</bool>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
-      <x>570</x>
-      <y>70</y>
-      <width>161</width>
-      <height>191</height>
+      <x>330</x>
+      <y>60</y>
+      <width>51</width>
+      <height>71</height>
      </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">border: 0px;
-l</string>
     </property>
     <property name="text">
      <string/>
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/card.png</normaloff>../build-Incomplete-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/card.png</iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
     </property>
     <property name="iconSize">
      <size>
-      <width>161</width>
-      <height>191</height>
+      <width>51</width>
+      <height>71</height>
      </size>
     </property>
-    <property name="flat">
-     <bool>true</bool>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>130</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
     </property>
    </widget>
-   <zorder>label_3</zorder>
-   <zorder>cardbase1</zorder>
-   <zorder>cardbase2</zorder>
-   <zorder>cardbase3</zorder>
-   <zorder>cardbase4</zorder>
-   <zorder>cardbase5</zorder>
-   <zorder>cardbase6</zorder>
-   <zorder>pushButton</zorder>
-   <zorder>pushButton_3</zorder>
-   <zorder>pushButton_4</zorder>
-   <zorder>pushButton_5</zorder>
-   <zorder>pushButton_6</zorder>
-   <zorder>pushButton_2</zorder>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>200</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_5">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>270</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_6">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>340</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_7">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>90</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_8">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>160</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_9">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>230</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_10">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>300</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_11">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>120</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_12">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>190</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_13">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>260</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_14">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>150</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_15">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>220</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_16">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>180</y>
+      <width>51</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/placeholder.png</normaloff>../assets/placeholder.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>51</width>
+      <height>71</height>
+     </size>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>858</width>
+     <width>1001</width>
      <height>21</height>
     </rect>
    </property>

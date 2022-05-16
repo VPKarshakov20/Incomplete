@@ -9,12 +9,12 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    gameintializer.cpp \
+    gameinitializer.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
-    gameintializer.h \
+    gameinitializer.h \
     mainwindow.h
 
 FORMS += \
